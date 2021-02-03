@@ -28,4 +28,4 @@ It's got everything **Tex-Mex** needs to be delicious.
 
 ---
 
-[AboutMe.md](https://github.com/Gidofter2/Assignment2-Boyles/blob/main/AboutMe.md)
+[AboutMe.md](AboutMe.md)
