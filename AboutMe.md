@@ -1,3 +1,3 @@
 # Heading
 
-![Fantasy Knight](Assignment2-Boyles/Alain.jpg)
+![Fantasy Knight](Alain.jpg)
