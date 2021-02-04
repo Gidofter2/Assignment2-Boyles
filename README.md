@@ -49,12 +49,12 @@ This table will tell you about places I recommend visiting. They're pretty cool 
 
 > In the grim darkness of the far future, there is only war.
 
->> *Warhammer 40000*
+- *Warhammer 40000*
 
 > Oh, don't you worry. Whatever happens... you may think it all a mere bad dream...
 
->> *Blood Minister, Bloodborne*
+- *Blood Minister, Bloodborne*
 
 > Look, Rhinos! RHIIIIIIINOS! Our enemies hide in METAL BAWKSES, the cowards! Da FEWLS! We... ;;*inhales* ... we should take away their metal bawkses.
 
->> *Firaeveus Carron, Dawn of War: Soulstorm*
+- *Firaeveus Carron, Dawn of War: Soulstorm*
