@@ -58,3 +58,41 @@ This table will tell you about places I recommend visiting. They're pretty cool 
 > Look, Rhinos! RHIIIIIIINOS! Our enemies hide in METAL BAWKSES, the cowards! Da FEWLS! We... *inhales* ... we should take away their metal bawkses.
 
 - *Firaeveus Carron, Dawn of War: Soulstorm*
+
+---
+
+Java is a class-based, object oriented language. It is designed to let users "Write Once, Run Anywhere" (WORA). 
+
+Source: <https://en.wikipedia.org/wiki/Java_(programming_language)> 
+
+'''
+
+class CodeBlock
+{
+    public static void main(String arg[])
+    {
+        System.out.println("In main block");
+        
+        {    // LINE A
+            System.out.print("In ");
+            System.out.print("inner ");
+            System.out.print("block ");    // LINE A1
+            System.out.println("One");
+        }
+        
+        {    // LINE B
+            System.out.print("In ");
+            System.out.print("inner ");
+            System.out.print("block ");
+            System.out.println("Two");
+        
+            {    // LINE C
+                System.out.println ("Block inside inner block two");
+            }
+        } // LINE D    
+    }
+}
+
+'''
+
+Source of Code: <https://java.meritcampus.com/core-java-topics/blocks-of-code-in-java>
