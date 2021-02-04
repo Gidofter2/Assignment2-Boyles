@@ -55,6 +55,6 @@ This table will tell you about places I recommend visiting. They're pretty cool 
 
 - *Blood Minister, Bloodborne*
 
-> Look, Rhinos! RHIIIIIIINOS! Our enemies hide in METAL BAWKSES, the cowards! Da FEWLS! We... ;;*inhales* ... we should take away their metal bawkses.
+> Look, Rhinos! RHIIIIIIINOS! Our enemies hide in METAL BAWKSES, the cowards! Da FEWLS! We... *inhales* ... we should take away their metal bawkses.
 
 - *Firaeveus Carron, Dawn of War: Soulstorm*
