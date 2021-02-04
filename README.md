@@ -66,10 +66,13 @@ Java is a class-based, object oriented language. It is designed to let users "Wr
 Source: <https://en.wikipedia.org/wiki/Java_(programming_language)> 
 
 '''
+
 class CodeBlock
 {
+
     public static void main(String arg[])
     {
+
         System.out.println("In main block");
         
         {    // LINE A
@@ -88,8 +91,11 @@ class CodeBlock
             {    // LINE C
                 System.out.println ("Block inside inner block two");
             }
+        
         } // LINE D    
+    
     }
+
 }
 '''
 
