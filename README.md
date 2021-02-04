@@ -40,5 +40,21 @@ This table will tell you about places I recommend visiting. They're pretty cool 
 |---|---|---|
 |WWI Museum|2-3 Hours|$18.00|
 |Level 1 Game Shop|1-2 Hours|Free Admission|
-|St. Louis Arch|1 hour|$12-16|
+|St. Louis Arch|1-2 hours|$12-16|
 |Glacier National Park|5 Hours|$20.00|
+
+---
+
+# Pithy Quotes
+
+> In the grim darkness of the far future, there is only war.
+
+*Warhammer 40000*
+
+> Oh, don't you worry. Whatever happens... you may think it all a mere bad dream...
+
+*Blood Minister, Bloodborne*
+
+> Look, Rhinos! RHIIIIIIINOS! Our enemies hide in METAL BAWKSES, the cowards! Da FEWLS! We... ;;*inhales* ... we should take away their metal bawkses.
+
+*Firaeveus Carron, Dawn of War: Soulstorm*
