@@ -65,8 +65,7 @@ Java is a class-based, object oriented language. It is designed to let users "Wr
 
 Source: <https://en.wikipedia.org/wiki/Java_(programming_language)> 
 
-''''
-
+'''
 class CodeBlock
 {
     public static void main(String arg[])
@@ -92,7 +91,6 @@ class CodeBlock
         } // LINE D    
     }
 }
-
-''''
+'''
 
 Source of Code: <https://java.meritcampus.com/core-java-topics/blocks-of-code-in-java>
