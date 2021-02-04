@@ -30,3 +30,14 @@ It's got everything **Tex-Mex** needs to be delicious.
 
 [AboutMe.md](AboutMe.md)
 
+---
+
+# Cool locations table
+
+This table will tell you about places I recommend visiting. They're pretty cool if I do say so myself
+
+|Location|Number of Hours Recommended for Visits|Money Required for Entry|
+|WWI Museum|2-3 Hours|$18.00|
+|Level 1 Game Shop|1-2 Hours|Free Admission|
+|St. Louis Arch|1 hour|$12-16|
+|Glacier National Park|5 Hours|$20.00|
